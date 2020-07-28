@@ -1,6 +1,12 @@
 # AI-for-Beginners
 Summer-Program(AI-for-Beginners)
 
+## Homework Schedule
+- hw1: 7.27-7.29
+- hw2: 7.28-7.30
+- hw3: 7.30-8.04
+- hw4(optional): 8.01-8.05
+
 ## Resources
 The resources are form https://github.com/KunlinY/TDA_Summer
 
